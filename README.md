@@ -16,8 +16,8 @@ It serves as a comprehensive demonstration of **CRUD operations** (Create, Read,
 * **Libraries:** `<iostream>`, `<vector>`, `<string>`, `<iomanip>`, `<cstdlib>`
 
 ## 📸 Project Preview
-![Bank System Screenshot](<img width="801" height="542" alt="Screenshot" src="https://github.com/user-attachments/assets/57237113-ad45-4100-b281-a094c06e8953.png" />
-)
+<img width="801" height="542" alt="Screenshot" src="https://github.com/user-attachments/assets/7002dee6-8012-499f-aff7-32586940e7a2" />
+
 
 ## 🧠 Technical Highlights
 - **Modular Design:** Each system operation is isolated into dedicated functions for clean and maintainable code.
